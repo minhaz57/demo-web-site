@@ -68,14 +68,14 @@
   float:left;
 } 
 .App-text h1{
-    font-size:28px; 
+    font-size:20px; 
     width:640px;
     postion:relative; 
     margin-left:40px; 
     
 } 
 .App-text p {
-  font-size: 15px;
+  font-size: 12px;
   width: 650px;
   margin:30px 0 30px 40px;
   line-height:25px;
